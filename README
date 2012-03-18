@@ -1,1 +1,1 @@
-sldkfjsdl
+The CU (Calibration Unit) requires matlab drivers to actuate the devices hardware which includes a Lamp,Pinhole Screen, Phased Screen Mechanism and Deformable Mirror.  Each peice of hardware is controlled via RS232 serial (DB9) interface.  With the exception of the Phased Screen mechanism which is controlled via a Compact RIO fpga/realtime controller which is programmed with LabView.
